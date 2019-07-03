@@ -2,13 +2,13 @@
 Ans: I'm interested in listening to music.
 
 Q2: Where do you live ?
-Ans: I live in Kha Vạn Cân street, Thủ Đức district, HCM city.
+Ans: I live in Kha Vạn Cân street, Thủ Đức district and HCM city.
 
 Q3: Do you like travelling ?
 Ans: No, I want to spend my money for an important things.
 
 Q4: Where have you been to ?
-Ans: I have been to Nha Tran beach.
+Ans: I have been to Nha Trang beach.
 
 Q5: Can you tell me about your family ?
 Ans: My family have three persons, my mother, my sister and me.
@@ -18,10 +18,12 @@ Ans: I would say I'm a careful person because I always check many time in a proj
 to make sure it doesn't fail
 
 Q7: How is your typical day ?
-Ans: As usual I ...
+Ans: As usual I working on my computer until afternoon
 
 Q8: What are you strengths ?
-Ans: My strengths are ...
+Ans: My strengths are hard-working because i want to become better and never back down
 
 Q9: What are your weaknesses ?
-Ans: My weaknesses is ..., but ...
+Ans: My weaknesses is communicate with stranger, but i will try to improve that in the future
+
+Q10: Ans: My personallity is funny because i want to live a happy life
