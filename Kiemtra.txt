@@ -1,0 +1,27 @@
+﻿Q1: What are your hobbies ?
+Ans: I'm interested in listening to music.
+
+Q2: Where do you live ?
+Ans: I live in Kha Vạn Cân street, Thủ Đức district, HCM city.
+
+Q3: Do you like travelling ?
+Ans: No, I want to spend my money for an important things.
+
+Q4: Where have you been to ?
+Ans: I have been to Nha Tran beach.
+
+Q5: Can you tell me about your family ?
+Ans: My family have three persons, my mother, my sister and me.
+
+Q6: How do you describe yourself ?
+Ans: I would say I'm a careful person because I always check many time in a project 
+to make sure it doesn't fail
+
+Q7: How is your typical day ?
+Ans: As usual I ...
+
+Q8: What are you strengths ?
+Ans: My strengths are ...
+
+Q9: What are your weaknesses ?
+Ans: My weaknesses is ..., but ...
