@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+<meta charset="UTF-8">
+<title>Test Quiz</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.5/angular.min.js"></script>
+<script src="jquery-3.4.1.js"></script>
+<script src="quizz.js"></script>
+</head>
+<body>
+    <div ng-controller="maincontroller" 
+        ng-repeat="quizz in ADAV">
+        <label class="radiocontainer" id="label1">
+            {{quizz.Text}}
+            <input type="radio" name="quiz" id="1" onclick="clickRadio(this)" value="1">
+            <span class="checkmark"></span>
+        </label>
+
+    <label class="radiocontainer" id="label2">
+            {{quizz.Text}}
+        <input type="radio" name="quiz" id="2" onclick="clickRadio(this)" value="2">
+        <span class="checkmark"></span>
+    </label>
+
+    <label class="radiocontainer" id="label3">
+            {{quizz.Text}}
+        <input type="radio" name="quiz" id="3" onclick="clickRadio(this)" value="3">
+        <span class="checkmark"></span>
+    </label>
+
+    <label class="radiocontainer" id="label4">
+            {{quizz.Text}}
+        <input type="radio" name="quiz" id="4" onclick="clickRadio(this)" value="4">
+        <span class="checkmark"></span>
+    </label>
+    </div>
+
+
+</body>
+</html>
