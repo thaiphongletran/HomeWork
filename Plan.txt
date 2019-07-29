@@ -6,5 +6,6 @@ Visual Studio Code Extensions:
 + Angular Console
 + Angular-CLI commands runner inside VS Code
 
+https://coreui.io/angular/
 https://www.youtube.com/watch?v=FVPGJHinItI&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=2
 https://www.skillshare.com/classes/Angular-8-The-Complete-Guide-Beginner-to-Advance/1725594364
